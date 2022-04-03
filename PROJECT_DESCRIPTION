@@ -1,0 +1,10 @@
+This project will scrape financial and market data for Polish stocks.
+
+how i want it to work:
+
+1) download specific data on a given stock from Polish sites <- build different classes for that
+2) find recent information on the company on the internet
+3) Perform basic analysis of the data
+In the future:
+    ???
+4) Create a dashboard (?)
