@@ -2,6 +2,8 @@ This project will scrape financial and market data for Polish stocks.
 
  GITHUB TOKEN: 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
 
+ GITHUB URL: https://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@github.com/MattG133/Stock_Data_Project.git
+
 how i want it to work:
 
 1) download specific data on a given stock from Polish sites <- build different classes for that
